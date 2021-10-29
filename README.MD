@@ -1,6 +1,6 @@
 ## Desafio riderize
 
-# Aplicação onde simula o inicio e o fim de um exercício, utilizando sua localização atual.
+# Aplicação onde simula o inicio e o fim de um exercício, visualizando sua localização atual.
 
 -> Linguagem: Javascript
 -> Framework: React Native
