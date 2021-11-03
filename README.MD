@@ -1,6 +1,6 @@
 ## Interface de um aplicativo para exercícios físicos
 
-![inicial](https://user-images.githubusercontent.com/50889610/140053778-bea22268-baab-47c1-b226-3eebf648f209.jpeg)
+![inicial](https://user-images.githubusercontent.com/50889610/140053879-86735afd-67cc-48a5-857e-e5296017ec4d.jpeg)
 
 
 # Aplicação onde simula o inicio e o fim de um exercício, visualizando sua localização atual.
